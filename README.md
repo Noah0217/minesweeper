@@ -7,3 +7,6 @@
 - VS Code
 - Git Bash Terminal
 - Python
+ 
+ <h3 align="left"> Installation
+  
