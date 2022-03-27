@@ -10,3 +10,8 @@
  
  <h3 align="left"> Installation
   
+  - Clone Repo
+  - Open Terminal
+  - Copy File Name
+  - Enter `Python "File Name"` In Terminal
+  
