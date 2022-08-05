@@ -15,3 +15,6 @@
   - Copy File Name
   - Enter `Python "File Name"` In Terminal
   
+<h3> Preview <h3>
+
+![minesweeper](https://user-images.githubusercontent.com/84366215/183142028-f6469d12-582f-42ef-8c7f-a975c4ddf4af.png)
