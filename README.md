@@ -11,7 +11,7 @@
  <h3 align="left"> Installation</h3>
   
   - Clone Repo
-  - Open Terminal
+  - Open `minesweeper.py` in Terminal
   - Copy File Name
   - Enter `Python "File Name"` In Terminal
   
