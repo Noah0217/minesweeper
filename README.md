@@ -13,7 +13,7 @@
   - Clone Repo
   - Open `minesweeper.py` in Terminal
   - Copy File Name
-  - Enter `Python "File Name"` In Terminal
+  - Enter `Python "minesweeper.py"` In Terminal
   
 <h3> Preview <h3>
 
